@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mgijo
-- 👀 I’m interested in Security
+- 👋 Hi, I’m @mgijo. Welcome :)
+- 👀 I’m interested in Security. 
 - 🌱 I’m currently enhancing my skills on KQL (Kusto Query Language, Python and other Security products
 
 <!---
