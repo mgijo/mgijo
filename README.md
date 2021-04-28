@@ -1,17 +1,17 @@
 - 👋 Hi, welcome to this page! :)
 - 👀 I work with Microsoft Security products
 
-Azure Sentinel (Cloud SIEM)
+  Azure Sentinel (Cloud SIEM)
 
-Azure Security Center (Azure Defender)
+  Azure Security Center (Azure Defender)
 
-Microsoft Cloud App Security (MCAS)
+  Microsoft Cloud App Security (MCAS)
 
-Microsoft Defender for Identity (MDI)
+  Microsoft Defender for Identity (MDI)
 
-Microsoft Defender for Endpoint (Endpoint Detection & Response)
+  Microsoft Defender for Endpoint (Endpoint Detection & Response)
 
-Microsoft 365 Defender (XDR)
+  Microsoft 365 Defender (XDR)
 
 - 🌱 I would like to share with you all some of the common challenges/solutions from these products.
 
