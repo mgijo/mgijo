@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgijo and welcome to this page! :)
+- 👋 Hi, welcome to this page! :)
 - 👀 I work with Microsoft Security products
 
 Azure Sentinel (Cloud SIEM)
@@ -13,7 +13,7 @@ Microsoft Defender for Endpoint (Endpoint Detection & Response)
 
 Microsoft 365 Defender (XDR)
 
-- 🌱 I would like to share with you all some of the common challenges/solutions while working with customers from these products.
+- 🌱 I would like to share with you all some of the common challenges/solutions rom these products.
 
 <!---
 //- 💞️ I’m looking to collaborate on ...
