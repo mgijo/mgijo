@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @mgijo. Welcome :)
-- 👀 I’m interested in Security. 
-- 🌱 I’m currently enhancing my skills on KQL (Kusto Query Language, Python and other Security products
+- 👀 I work with Microsoft Security products
+
+Azure Sentinel (Cloud SIEM)
+Azure Security Center (Azure Defender)
+Microsoft Cloud App Security (MCAS)
+Microsoft Defender for Identity (MDI)
+Microsoft Defender for Endpoint (Endpoint Detection & Response)
+Microsoft 365 Defender (XDR)
+
+- 🌱 I would like to share with you some of the common challenges/solutions while working with customers from these products.
 
 <!---
 //- 💞️ I’m looking to collaborate on ...
