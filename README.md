@@ -13,7 +13,7 @@ Microsoft Defender for Endpoint (Endpoint Detection & Response)
 
 Microsoft 365 Defender (XDR)
 
-- 🌱 I would like to share with you some of the common challenges/solutions while working with customers from these products.
+- 🌱 I would like to share with you all some of the common challenges/solutions while working with customers from these products.
 
 <!---
 //- 💞️ I’m looking to collaborate on ...
