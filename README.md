@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgijo. Welcome :)
+- 👋 Hi, I’m @mgijo and welcome to this page! :)
 - 👀 I work with Microsoft Security products
 
 Azure Sentinel (Cloud SIEM)
