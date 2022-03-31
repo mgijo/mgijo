@@ -1,11 +1,11 @@
 - 👋 Hi, welcome to this page! :)
 - 👀 I work with Microsoft Security products
 
-  Azure Sentinel (Cloud SIEM)
+  Microsoft Sentinel (Cloud-native SIEM)
 
-  Azure Security Center (Azure Defender)
+  Microsoft Defender for Cloud (Azure Defender)
 
-  Microsoft Cloud App Security (MCAS)
+  Microsoft Defender for Cloud Apps (MCAS)
 
   Microsoft Defender for Identity (MDI)
 
